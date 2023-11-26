@@ -1,4 +1,4 @@
-# Integrity and mock test with JUnit and Mockito for Spring RESTful
+# Integrity and mock test with JUnit and Mockito for Spring RESTful SALMA
 
 ![Spring Boot RESTful logo](https://github.com/Pio-Trek/Spring-Rest-API-Test/blob/master/logo.png)
 
